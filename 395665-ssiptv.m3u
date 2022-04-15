@@ -1,0 +1,10 @@
+#EXTM3U size="Big"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS
+#EXTBG:https://ibb.co/9NDPGYj.png
+http://s.painel.biz/ssiptv/get/395665/043187/list_lives/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
+#EXTBG:https://i.imgur.com/UPwmfMq.png
+http://s.painel.biz/ssiptv/get/395665/043187/movie_categories/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES
+#EXTBG:https://i.imgur.com/fqHL7Da.png
+http://s.painel.biz/ssiptv/get/395665/043187/serie_categories/
